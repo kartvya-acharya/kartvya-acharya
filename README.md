@@ -1,0 +1,3 @@
+- <h2>👋 Hi, I’m Kartvya Acharya</h2>
+- 👀 I’m interested in web and mobile application devlopment
+- 🌱 I’m currently learning react native
